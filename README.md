@@ -1,0 +1,2 @@
+# TestModifyConstGlobalVariable
+测试修改全局常量
